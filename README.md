@@ -1,4 +1,4 @@
-## Hello, My name is Dmitry 👋
+## Hello, my name is Dmitry 👋
 ### 💻 Work 
 * Since 2018 Application Security Team Leader 
 * 2014-2018 – Oracle Hyperion Expert at Veon Ltd., Moscow, Russia – veon.com
