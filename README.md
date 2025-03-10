@@ -9,7 +9,12 @@
 * 2014 – IT Manager Studies at Open University of Skolkovo, St. Petersburg & Moscow, Russia
 * 2012 – Communications Networks & Switching Systems Engineer (Cum Laude) at Bonch University, St. Petersburg, Russia
 * 2011 – Telecommunication (Exchange Program) at University of Ljubljana, Slovenia
+<br>
 
+### 🎯 Hobbies
+* Sport
+* Reading
+* Outdoor Adventures
 <!--
 **RazumenkoDS/RazumenkoDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
