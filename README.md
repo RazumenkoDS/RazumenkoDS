@@ -1,5 +1,10 @@
 ## Hello, My name is Dmitry 👋
-📚Education
+### 💻 Work 
+* Since 2018 Application Security Team Leader 
+* 2014-2018 – Oracle Hyperion Expert at Veon Ltd., Moscow, Russia – veon.com
+<br>
+
+### 📚Education
 * 2024-Present – Master's in Information Security at ITMO University, St. Petersburg, Russia
 * 2014 – IT Manager Studies at Open University of Skolkovo, St. Petersburg & Moscow, Russia
 * 2012 – Communications Networks & Switching Systems Engineer (Cum Laude) at Bonch University, St. Petersburg, Russia
