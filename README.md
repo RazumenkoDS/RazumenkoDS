@@ -20,7 +20,7 @@ Public portfolio version of my AWS cloud coursework completed during my exchange
 - **Assessment 1 — S3 Static Web Hosting**
 - **Assessment 2 — EC2 + ALB**
 
-🔗 Public repository: [dankook-aws-assessments-public](https://github.com/RazumenkoDS/dankook-aws-assessments-public)
+🔗 Public repository: [dankook-aws-assessments-public](https://github.com/RazumenkoDS/aws)
 
 ### Focus Areas
 - AWS fundamentals
