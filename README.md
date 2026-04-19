@@ -12,6 +12,23 @@
 * 2011 – Telecommunication (Exchange Program) at University of Ljubljana, Slovenia
 <br>
 
+## 🚀 Projects / Assessments
+
+### AWS Cloud Assessments
+Public portfolio version of my AWS cloud coursework completed during my exchange studies at Dankook University, South Korea.
+
+- **Assessment 1 — S3 Static Web Hosting**
+- **Assessment 2 — EC2 + ALB**
+
+🔗 Public repository: [dankook-aws-assessments-public](https://github.com/RazumenkoDS/dankook-aws-assessments-public)
+
+### Focus Areas
+- AWS fundamentals
+- EC2 and networking
+- Application Load Balancer
+- fault tolerance and verification
+- Infrastructure as Code with Terraform
+
 ### 🎯 Hobbies
 * Sport
 * Reading
