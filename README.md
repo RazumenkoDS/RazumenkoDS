@@ -30,14 +30,14 @@ Public portfolio version of my AWS cloud coursework completed during my exchange
 
 
 ### Focus Areas
-* Application security
-* Mobile Application security
-* AWS fundamentals and networking
-** Infrastructure as Code with Terraform
-** EC2, Application Load Balancer, and Auto Scaling
-**  RDS MySQL and private database access
-**  High availability, fault tolerance, and verification
-
+- Application Security
+- Mobile Application Security
+- AWS Fundamentals and Networking
+  - Infrastructure as Code with Terraform
+  - EC2, Application Load Balancer, and Auto Scaling
+  - RDS MySQL and Private Database Access
+  - High Availability, Fault Tolerance, and Verification
+    
 ### 🎯 Hobbies
 * Sport
 * Reading
