@@ -17,23 +17,26 @@
 ### AWS Cloud Assessments
 Public portfolio version of my AWS cloud coursework completed during my exchange studies at Dankook University, South Korea.
 
-- **Assessment 1 — S3 Static Web Hosting**
-- **Assessment 2 — EC2 + ALB**
-- **Semester Final Project — Highly Available WordPress on AWS**
-  
-**Final project stack**: Terraform, Application Load Balancer, Auto Scaling Group, EC2, private RDS MySQL, security groups, health checks, and failover verification.
+Public portfolio version of my AWS cloud coursework completed during my exchange studies at Dankook University, South Korea.
 
-🔗 Public repository: [dankook-aws-assessments-public](https://github.com/RazumenkoDS/aws)
-🔗 Public project repository: [AWS Final Project ](https://github.com/RazumenkoDS/semester-final-project-RazumenkoDS)
+- **Assessment 1 — S3 Static Web Hosting**
+- **Assessment 2 — EC2 + Application Load Balancer**
+- **Semester Final Project — Highly Available WordPress on AWS**
+
+**Final project stack:** Terraform, Application Load Balancer, Auto Scaling Group, EC2, private RDS MySQL, security groups, health checks, and failover verification.
+
+🔗 Public coursework repository: [dankook-aws-assessments-public](https://github.com/RazumenkoDS/aws)  
+🔗 Final project repository: [AWS Final Project](https://github.com/RazumenkoDS/semester-final-project-RazumenkoDS)
+
 
 ### Focus Areas
 * Application security
 * Mobile Application security
 * AWS fundamentals and networking
-  Infrastructure as Code with Terraform
-  EC2, Application Load Balancer, and Auto Scaling
-  RDS MySQL and private database access
-  High availability, fault tolerance, and verification
+** Infrastructure as Code with Terraform
+** EC2, Application Load Balancer, and Auto Scaling
+**  RDS MySQL and private database access
+**  High availability, fault tolerance, and verification
 
 ### 🎯 Hobbies
 * Sport
