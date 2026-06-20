@@ -20,6 +20,7 @@ Public portfolio version of my AWS cloud coursework completed during my exchange
 - **Assessment 1 — S3 Static Web Hosting**
 - **Assessment 2 — EC2 + ALB**
 - **Semester Final Project — Highly Available WordPress on AWS**
+  
 **Final project stack**: Terraform, Application Load Balancer, Auto Scaling Group, EC2, private RDS MySQL, security groups, health checks, and failover verification.
 
 🔗 Public repository: [dankook-aws-assessments-public](https://github.com/RazumenkoDS/aws)
