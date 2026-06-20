@@ -19,15 +19,20 @@ Public portfolio version of my AWS cloud coursework completed during my exchange
 
 - **Assessment 1 — S3 Static Web Hosting**
 - **Assessment 2 — EC2 + ALB**
+- **Final project stack: Terraform, Application Load Balancer, Auto Scaling Group, EC2, private RDS MySQL, security groups, health checks, and failover verification**
+**Final project stack**: Terraform, Application Load Balancer, Auto Scaling Group, EC2, private RDS MySQL, security groups, health checks, and failover verification.
 
 🔗 Public repository: [dankook-aws-assessments-public](https://github.com/RazumenkoDS/aws)
+🔗 Public project repository: [AWS Final Project ](https://github.com/RazumenkoDS/semester-final-project-RazumenkoDS)
 
 ### Focus Areas
-- AWS fundamentals
-- EC2 and networking
-- Application Load Balancer
-- fault tolerance and verification
-- Infrastructure as Code with Terraform
+* Application security
+* Mobile Application security
+* AWS fundamentals and networking
+  Infrastructure as Code with Terraform
+  EC2, Application Load Balancer, and Auto Scaling
+  RDS MySQL and private database access
+  High availability, fault tolerance, and verification
 
 ### 🎯 Hobbies
 * Sport
